@@ -64,7 +64,7 @@ def LoadCredits():
     DrawLine()
     input("Enter to continue... ")
 
-def WinCommunicat(winer,c):
+def WinCommunicat(winer):
     DrawLine()
     print("Player",winer,", you win!")
     DrawLine()
